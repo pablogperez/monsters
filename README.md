@@ -6,7 +6,7 @@ Basic app to understand react fundamentals
 Some concepts used:
 Consume an API, filter an array, building components and sending props betweem them, asynchronous call, components lifecycle methods.
 
-------------------------------------------------------------- ESPAÑOL -----------------------------------------------------------------
+** ESPAÑOL **
 
 Aplicación básica para entender fundamentals de react.
 
